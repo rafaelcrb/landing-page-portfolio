@@ -1,6 +1,6 @@
 # Documentação Técnica - Portfolio Landing Page
 
-## Visão Geral da Arquitetura
+## Visão Geral da Arquitetura -_-
 
 Este projeto implementa uma arquitetura full-stack moderna seguindo as melhores práticas de desenvolvimento web. A aplicação é dividida em três camadas principais: frontend (Next.js), backend (Node.js/Express) e banco de dados (PostgreSQL).
 
